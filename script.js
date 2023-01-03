@@ -35,7 +35,7 @@ $('.menu-btn').click(function(){
 
     // typing animation script
     var  typed = new Typed(".typing", {
-        strings: ["Programmer" , "Developer" , "Designer" ,"Freelancer"],
+        strings: ["Programmer" , "Developer" , "Designer"],
         typeSpeed:100,
         backSpeed: 60,
         loop: true
